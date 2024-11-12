@@ -8,11 +8,12 @@ $$
 $$
 
 $$
-u = g\\ \in\\ \delta \Omega
+u = g\ \in\\ \delta \Omega
 $$
 
 # Вариационная формулировка или Слабая формулировка
 Берем тестовую функцию $v$, домножаем обе стороны сильной формулировки:
+
 
 $$
 - \int_{\Omega}( \nabla u \nabla vdV + c \int_{\Omega} uvdV =\int_{\Omega} fvdV  \forall v     \qquad      (1)
