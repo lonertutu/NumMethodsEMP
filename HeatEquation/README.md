@@ -4,7 +4,7 @@
 (Сильная формулировка)
 
 $$
-\Delta = f \in \Omega
+\Delta u = f\\ \in\\ \Omega
 $$
 
 $$
@@ -19,10 +19,10 @@ $$
 $$
 
 $$
-u = g in \delta \Omega, v = 0 in \delta \Omega
+u = g\\ in\\ \delta \Omega, v = 0\\ in\\ \delta \Omega
 $$
 
-Задача: найти $u \in H^{1}(\Omega)$ для которых верно (1) for $\forall v \in H^{1}(\Omega)$
+Задача: найти $u\\ \in\\ H^{1}(\Omega)$ для которых верно (1) for $\forall v\\ \in\\ H^{1}(\Omega)$
 
 $H^{1} - $ пространство Соболева.
 + добавляются граничные условия
