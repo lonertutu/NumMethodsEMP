@@ -15,7 +15,7 @@ $$
 Берем тестовую функцию, домножаем обе стороны сильной формулировки
 
 $$
-\- \int_{\Omega}( \nabla u \nabla vdV + c \int_{\Omega} uvdV =\int_{\Omega} fvdV\\  \forall v\\    \qquad      (1)
+\- \int_{\Omega}( \nabla u \nabla vdV + c \int_{\Omega} uvdV =\int_{\Omega} fvdV\\ \qquad \forall v\\    \qquad      (1)
 $$
 
 $$
@@ -28,5 +28,5 @@ $$
 
 Задача: найти $u\\ \in\\ H^{1}(\Omega)$ для которых верно (1) for $\forall v\\ \in\\ H^{1}(\Omega)$
 
-$$ H^{1} - $$ - пространство Соболева.
-+ добавляются граничные условия
+$ H^{1} \text{ - пространство Соболева}$
++ \+ добавляются граничные условия
