@@ -15,14 +15,14 @@ $$
 Берем тестовую функцию $v$, домножаем обе стороны сильной формулировки:
 
 $$
-\int_{\Omega}( \nabla u \nabla vdV +c \int_{\Omega} uvdV =\int_{\Omega} fvdV  \any v     \qquad      (1)
+- \int_{\Omega}( \nabla u \nabla vdV +c \int_{\Omega} uvdV =\int_{\Omega} fvdV  \forall v     \qquad      (1)
 $$
 
 $$
 u = g in \delta \Omega, v = 0 in \delta \Omega
 $$
 
-Задача: найти $u \in H^{1}(\Omega)$ для которых верно (1) for $\any v \in H^{1}(\Omega)$
+Задача: найти $u \in H^{1}(\Omega)$ для которых верно (1) for $\forall v \in H^{1}(\Omega)$
 
 $H^{1} - $ пространство Соболева.
 + добавляются граничные условия
