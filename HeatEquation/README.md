@@ -65,3 +65,6 @@ $$
 + Walls == 2
 
 Для учета градиента умельчена сетка внутри радиатора.
+<p align="center">
+ <img width="400px" src="mesh.png" alt="qr"/>
+</p>
