@@ -7,7 +7,7 @@ Physical Volume("Heater", 1) = {1};
 //+
 Physical Surface("Window", 1) = {13};
 //+
-Physical Surface("Walls", 2) = {9, 11, 8, 7, 12, 10,};
+Physical Surface("Walls", 2) = {9, 11, 8, 7, 12, 10, 6};
 //+
 Field[1] = Box;
 //+
