@@ -68,3 +68,34 @@ $$
 <p align="center">
  <img width="400px" src="mesh.png" alt="qr"/>
 </p>
+
+# Результаты для сетки 100-200
+
+<p align="center">
+ <img width="400px" src="100-200.png" alt="qr"/>
+</p>
+
+# Результаты для сетки 250-500
+
+<p align="center">
+ <img width="400px" src="500-250.png" alt="qr"/>
+</p>
+
+<p align="center">
+ <img width="400px" src="500-250PV.png" alt="qr"/>
+</p>
+
+# Результаты для сетки 50-100. Самая мелкая сетка
+
+
+<p align="center">
+ <img width="400px" src="100-50.png" alt="qr"/>
+</p>
+
+<p align="center">
+ <img width="400px" src="50-100PV.png" alt="qr"/>
+</p>
+
+Наблюдается посеточная сходимость, так как при уменьшении размера сетки, температура в центре комнаты не изменяется.
+
+## Для достижения в центре комнаты температуры T = 16 ℃ требуется нагреть радиатор до T = 24℃.
