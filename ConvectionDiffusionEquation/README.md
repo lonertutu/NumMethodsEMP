@@ -3,15 +3,24 @@
 Уравнение:
 
 $$
-\frac{\delta u}{\delta t} = - \nabla \cdot (\kappa \nabla u) + \vec {v} \cdot \nabla u
+\frac{\delta u}{\delta t} = - \vec {v} \cdot \nabla u + \nabla \cdot ((\kappa + \alpha u) \nabla u)
 $$
 
 $$
-\kappa - \text{коэффициент теплопроводности}
+\kappa - \text{коэффициент диффузии}
+$$
+
+$$
+\alpha - \text{коэффициент нелинейности}
 $$
 
 $$
 \vec{v} - \text{скорость конвекции, const в задаче}
+$$
+
+## Начальное условие имеет вид:
+$$
+u(x, 0) = \sin(2 \pi \frac{x - 0.26}{0.57 - 0.26})^2 \qquad x \in \[0.26, 0.57]\\ else\\ 0
 $$
 
 Задача решается с помощью FEM.
