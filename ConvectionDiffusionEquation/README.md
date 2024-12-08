@@ -22,7 +22,7 @@ $$
 K_{ij} = \int_{\Omega} (\kappa = \alpha u) \nabla \phi_i \cdot \nabla \phi_j d \Omega
 $$
 
-Матрица масс связано с временной зависимостью $ \frac{\delta u}{\delta t}$
+Матрица масс связано с временной зависимостью $\frac{\delta u}{\delta t}$
 Задача: найти $u\\ \in\\ H^{1}(\Omega)$ для которых верно (1) for $\forall v\\ \in\\ H^{1}(\Omega)$
 
 
