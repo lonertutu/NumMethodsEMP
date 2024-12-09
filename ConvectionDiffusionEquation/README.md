@@ -33,7 +33,7 @@ $$
 Матрица жесткости связана с диффузией имеет вид:
 
 $$
-K_{ij} = \int_{\Omega} (\kappa = \alpha u) \nabla \phi_i \cdot \nabla \phi_j d \Omega
+K_{ij} = \int_{\Omega} (\kappa + \alpha u) \nabla \phi_i \cdot \nabla \phi_j d \Omega
 $$
 
 Матрица масс M связано с временной зависимостью $\frac{\delta u}{\delta t}$
