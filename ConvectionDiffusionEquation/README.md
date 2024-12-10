@@ -74,11 +74,15 @@ $$
 Наболее удобен 2й график. Параметры, выбранные для получения данного графика.
 
 $$
-dt = 10^{-6},\qquad \text{срез по времени берётся равным 2000}
+dt = 5*10^{-6},\qquad \text{срез по времени берётся равным 1000}
 $$
 
 <p align="center">
  <img width="400px" src="resultsss_dt=5e-06_vis_st=2000.png" alt="qr"/>
+</p>
+
+<p align="center">
+ <img width="400px" src="resultsss_dt=5e-06_vis_st=1000.png" alt="qr"/>
 </p>
 
 <p align="center">
@@ -88,3 +92,5 @@ $$
 <p align="center">
  <img width="400px" src="resultsss_dt=1e-06_vis_st=200.png" alt="qr"/>
 </p>
+
+Также, ради интереса были проверены методы RK4 и RK6 порядков, различий по графикам не возникло. Поэтому с таким шагом dt RK2 имеет хорошую точность вычисление u(x,t).
