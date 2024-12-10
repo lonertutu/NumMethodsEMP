@@ -67,6 +67,7 @@ $$
 
 На каждом временном шаге вычисляется правая часть с помощью метода RK2Solver.
 
+## Результаты расчетов
 <p align="center">
- <img width="400px" src="solution.png" alt="qr"/>
+ <img width="400px" src="resultsss_dt=5e-06_vis_st=2000.png" alt="qr"/>
 </p>
